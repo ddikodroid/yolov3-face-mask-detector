@@ -1,3 +1,4 @@
+# Face Mask Detector Config File
 Config file for training and testing the face mask detector
 
 ## Training
