@@ -161,3 +161,4 @@ data/obj/0179.jpg
 data/obj/0180.jpg
 data/obj/0181.jpg
 data/obj/0182.jpg
+data/obj/0183.png
